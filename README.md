@@ -19,7 +19,7 @@ To this end, a thematic semester is made up of a series of scientific events suc
 
 10:15 Introduction
 
-11:00 TBA
+11:00 Lénaïg Cornanguer (Inria): *TAG: Learning Timed Automata from Logs*
 
 12:00 Lunch
 
@@ -29,7 +29,7 @@ To this end, a thematic semester is made up of a series of scientific events suc
 
 15:00 Short 15mn break
 
-15:15 Lénaïg Cornanguer (Inria): *TAG: Learning Timed Automata from Logs*
+15:15 Gregory Blanc (Telecom Sud Paris): *Contributions of AI to the evaluation of intrusion detection systems*
 
 16:00 Ying Zhao (Naval Postgraduate School): [REMOTE] *Integrating Human Reasoning and Machine Learning for Causal Learning Applied to Defense Applications*
 
