@@ -47,7 +47,7 @@ To this end, a thematic semester is made up of a series of scientific events suc
 
 12:00 Lunch
 
-13:30 Pierre-François Gimenez (Inria) [REMOTE] *Intrusion detection using AI*
+13:30 Pierre-François Gimenez (Inria) [REMOTE] *Behavioral intrusion detection system based on machine learning*
 
 14:15 Amélie Raymond (Télécom-Physique - University of Strasbourg): *Anomaly detection using supervised learning: from logs to images*
 
