@@ -51,4 +51,4 @@ To this end, a thematic semester is made up of a series of scientific events suc
 
 14:15 Amélie Raymond (Télécom-Physique - University of Strasbourg): *Anomaly detection using supervised learning: from logs to images*
 
-15:00 TBA
+15:00 Romain Brisse (Malizen & Inria) *KRAKEN: A Knowledge-Based Recommender system for Analysts, to Kick Exploration up a Notch*
