@@ -17,7 +17,7 @@ To this end, a thematic semester is made up of a series of scientific events suc
 
 9h30 Accueil/café
 
-10:15 Introduction
+10:15 Rémi Badonnel (Loria): *TBA*
 
 11:00 Lénaïg Cornanguer (Inria): *TAG: Learning Timed Automata from Logs*
 
