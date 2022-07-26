@@ -43,7 +43,7 @@ To this end, a thematic semester is made up of a series of scientific events suc
 
 10:15 Ciby (Scuba)
 
-11:00 Gildas Jeantet (sekoia.io)
+11:00 Gildas Jeantet (sekoia.io) - talk/demo in French
 
 12:00 Lunch
 
