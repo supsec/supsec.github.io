@@ -17,7 +17,7 @@ To this end, a thematic semester is made up of a series of scientific events suc
 
 9h30 Accueil/café
 
-10:15 Rémi Badonnel (Loria): *Comparative Assessment of Process Mining for Supporting IoT Predictive Security (TBC)*
+10:15 Rémi Badonnel (Loria): *Comparative Assessment of Process Mining for Supporting IoT Predictive Security*
 
 11:00 Lénaïg Cornanguer (Inria): *TAG: Learning Timed Automata from Logs*
 
@@ -39,7 +39,7 @@ To this end, a thematic semester is made up of a series of scientific events suc
 
 09:00 Welcome coffee
 
-09:30 Olivier Gesny (Silicom): C4PTION, or Why Characterizing Authors of PorTIONs of code and commits ?
+09:30 Olivier Gesny (Silicom): *C4PTION, or Why Characterizing Authors of PorTIONs of code and commits?*
 
 10:15 Ciby (Scuba)
 
