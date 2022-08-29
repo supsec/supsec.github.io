@@ -1,4 +1,4 @@
-# Supsec 3rd workshop: September 19th/20th (in Inria Rennes)
+# Supsec 3rd workshop: AI for supervision (September 19th/20th, in Inria Rennes)
 
 The DGA has entrusted Inria, on behalf of all the partners of the PEC research centre (Pôle d’excellence cyber), with the organisation of “thematic semesters” dedicated to cybersecurity.
 
