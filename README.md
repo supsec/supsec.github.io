@@ -57,6 +57,7 @@ To this end, a thematic semester is made up of a series of scientific events suc
 ## Registration (free but mandatory)
 
 By email to lydie.mabil@inria.fr
+
 Last/Family NAME:
 
 First name:
