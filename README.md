@@ -37,11 +37,9 @@ To this end, a thematic semester is made up of a series of scientific events suc
 
 **September 20th**
 
-09:00 Welcome coffee
+09:45 Welcome coffee
 
-09:30 Olivier Gesny (Silicom): *C4PTION, or Why Characterizing Authors of PorTIONs of code and commits?*
-
-10:15 Ciby (Scuba)
+10:15 Olivier Gesny (Silicom): *C4PTION, or Why Characterizing Authors of PorTIONs of code and commits?*
 
 11:00 Gildas Jeantet (sekoia.io) - talk/demo in French
 
