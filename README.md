@@ -11,7 +11,7 @@ Led by one or several researchers from PEC partners, a thematic semester has the
 
 To this end, a thematic semester is made up of a series of scientific events such as colloquia, conferences and working group meetings. There is a with thematic coherence between these events that are organized over a period of 3 to 6 months. These activities are complemented by short or longer term invitations of researchers and other events that may be organized in cooperation with the Rennes ecosystem.
 
-## Program
+## Supsec Workshop Fall 2022 Program
 
 **September 19th**
 
@@ -77,7 +77,7 @@ Free comments:
 ## Information
 ### Location
 
-The Supsec Workshop Spring 2022 is located in Inria centre at Rennes University on the University Campus (called “Campus de Beaulieu”), in the east of Rennes.
+The Supsec Workshop Fall 2022 is located in Inria centre at Rennes University on the University Campus (called “Campus de Beaulieu”), in the east of Rennes.
 
 When you are at Inria centre at Rennes University, enter building 12G “Accueil Inria – IRISA”.
 The lectures will take place in the “Centre de conférences Inria”.
