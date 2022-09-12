@@ -73,3 +73,39 @@ Departure date:
 Dietary restrictions:
 
 Free comments:
+
+## Information
+### Location
+
+The Supsec Workshop Spring 2022 is located in Inria centre at Rennes University on the University Campus (called “Campus de Beaulieu”), in the east of Rennes.
+
+When you are at Inria centre at Rennes University, enter building 12G “Accueil Inria – IRISA”.
+The lectures will take place in the “Centre de conférences Inria”.
+
+### Transportation
+
+> Reach Inria from the city center
+
+The easiest way to reach Inria is to take the bus. The main bus stop in the city center is called “République”. You can take the bus lines C4 (direction “ZA Saint-Sulpice, Rennes”) and C6 (direction “Rigourdière, Cesson-Sévigné”). The nearest bus stop is called “Les Préales”. More information for planning your journey on the Star public transportation service.
+
+Alternatively you can rent a bike (more information: Vélo Star).
+
+> Reach Inria from the train station
+
+A number of trains stop in Rennes. You can reach the city center by metro, and take the bus from there.
+
+> Reach Inria from the airport
+
+The nearest airport is Rennes Saint-Jacques. The easiest way to get to Inria from the airport is to take a taxi (around €30). You can also take the bus line C6 (bus stop “Aéroport, Saint-Jacques-de-la-Lande” to “Rigourdière, Cesson-Sévigné”).
+
+### Accommodation
+
+The accommodation remains at your expense.
+
+If you wish to stay at a hotel, here is a list of hotels recommended by Inria:
+
+    Hôtel de Nemours: 5 Rue de Nemours, 35000 Rennes. Tel +332 99 78 26 26. https://www.hotelnemours.com/en/
+    Hôtel Anne de Bretagne: 12 Rue Tronjolly, 35000 Rennes. Tel +332 99 31 49 49. https://www.hotel-rennes.com/
+    Aparthotel Adagio Access Rennes Centre: 35 Rue d’Antrain, 35700 Rennes. Tel +332 23 21 26 00. https://www.adagio-city.com/fr/hotel-8398-aparthotel-adagio-access-rennes-centre/index.shtml
+    Appart’hôtel Odalys Rennes Lorgeril: 2, Rue de Lorgeril 35000 Rennes. Tel +332 99 12 55 20. https://www.odalys-vacances.com/location-mer/bretagne/rennes/odalys-rennes-lorgeril.html
+
