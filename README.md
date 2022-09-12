@@ -15,7 +15,7 @@ To this end, a thematic semester is made up of a series of scientific events suc
 
 **September 19th**
 
-9h30 Accueil/café
+9h30 Welcome coffee
 
 10:15 Rémi Badonnel (Loria): *Management of Security for the Cyber-Space: From Smart Monitoring to Automated Configuration*
 
@@ -41,7 +41,7 @@ To this end, a thematic semester is made up of a series of scientific events suc
 
 10:15 Olivier Gesny (Silicom): *C4PTION, or Why Characterizing Authors of PorTIONs of code and commits?*
 
-11:00 Gildas Jeantet (sekoia.io) - talk/demo in French
+11:00 Gildas Jeantet (sekoia.io): *Prédiction de patterns d'attaques dans les rapports d'analyses et détection d'anomalies dans les logs* (talk/demo in French)
 
 12:00 Lunch
 
