@@ -1,19 +1,6 @@
-# Supsec 3rd workshop: AI for supervision (September 19th/20th, in Inria Rennes)
+# Supsec Workshop Fall 2022: AI for supervision - Sept 19th/20th, Inria Rennes
 
-The DGA has entrusted Inria, on behalf of all the partners of the PEC research centre (Pôle d’excellence cyber), with the organisation of “thematic semesters” dedicated to cybersecurity.
-
-Led by one or several researchers from PEC partners, a thematic semester has the following objectives:
-
-* to strengthen the visibility and scientific activity of teams working on a given cybersecurity subject;
-* to strengthen technology transfer activity through the development of platforms or proofs of concept;
-* to carry out a strategic reflection on the theme, which will take the form of a white book intended to be widely disseminated and which will be used to steer funding by the PEC;
-* to provide scientific formation and information for students and for the general public.
-
-To this end, a thematic semester is made up of a series of scientific events such as colloquia, conferences and working group meetings. There is a with thematic coherence between these events that are organized over a period of 3 to 6 months. These activities are complemented by short or longer term invitations of researchers and other events that may be organized in cooperation with the Rennes ecosystem.
-
-## Supsec Workshop Fall 2022 Program
-
-**September 19th**
+**September 19th, in Inria salle de conférence**
 
 9h30 Welcome coffee
 
@@ -108,4 +95,17 @@ If you wish to stay at a hotel, here is a list of hotels recommended by Inria:
     Hôtel Anne de Bretagne: 12 Rue Tronjolly, 35000 Rennes. Tel +332 99 31 49 49. https://www.hotel-rennes.com/
     Aparthotel Adagio Access Rennes Centre: 35 Rue d’Antrain, 35700 Rennes. Tel +332 23 21 26 00. https://www.adagio-city.com/fr/hotel-8398-aparthotel-adagio-access-rennes-centre/index.shtml
     Appart’hôtel Odalys Rennes Lorgeril: 2, Rue de Lorgeril 35000 Rennes. Tel +332 99 12 55 20. https://www.odalys-vacances.com/location-mer/bretagne/rennes/odalys-rennes-lorgeril.html
+
+## Context and organization
+
+The DGA has entrusted Inria, on behalf of all the partners of the PEC research centre (Pôle d’excellence cyber), with the organisation of “thematic semesters” dedicated to cybersecurity.
+
+Led by one or several researchers from PEC partners, a thematic semester has the following objectives:
+
+* to strengthen the visibility and scientific activity of teams working on a given cybersecurity subject;
+* to strengthen technology transfer activity through the development of platforms or proofs of concept;
+* to carry out a strategic reflection on the theme, which will take the form of a white book intended to be widely disseminated and which will be used to steer funding by the PEC;
+* to provide scientific formation and information for students and for the general public.
+
+To this end, a thematic semester is made up of a series of scientific events such as colloquia, conferences and working group meetings. There is a with thematic coherence between these events that are organized over a period of 3 to 6 months. These activities are complemented by short or longer term invitations of researchers and other events that may be organized in cooperation with the Rennes ecosystem.
 
