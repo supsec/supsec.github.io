@@ -1,6 +1,6 @@
-# Supsec Workshop Fall 2022: AI for supervision - Sept 19th/20th, Inria Rennes
+# Supsec Workshop Fall 2022: AI for supervision
 
-**September 19th, in Inria salle de conférence**
+**September 19th, in Inria Rennes (salle de conférence)**
 
 9h30 Welcome coffee
 
