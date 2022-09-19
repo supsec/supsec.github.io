@@ -16,7 +16,7 @@
 
 15:00 Short 15mn break
 
-15:15 Gregory Blanc (Telecom Sud Paris): *Contributions of AI to the evaluation of intrusion detection systems*
+<s>15:15 Gregory Blanc (Telecom Sud Paris): *Contributions of AI to the evaluation of intrusion detection systems*</s> Canceled
 
 16:00 Ying Zhao (Naval Postgraduate School): [REMOTE] *Integrating Human Reasoning and Machine Learning for Causal Learning Applied to Defense Applications*
 
